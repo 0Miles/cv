@@ -75,7 +75,7 @@ export const RESUME_DATA = {
             start: "2018",
             end: "2023",
             description:
-                "AoyueDesign is a web development outsourcing company.",
+                "Aoyue Design is a web development outsourcing company, primarily leveraging Angular with a recent emphasis on using Next.js.",
         }
     ],
     skills: [
