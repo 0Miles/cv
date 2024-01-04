@@ -15,7 +15,7 @@ export const RESUME_DATA = {
     personalWebsiteUrl: "https://miles.tw",
     contact: {
         email: "inbox@miles.tw",
-        // tel: "+48530213401",
+        tel: undefined,
         social: [
             {
                 name: "Personal website",
