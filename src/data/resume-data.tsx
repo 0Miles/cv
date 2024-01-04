@@ -12,7 +12,6 @@ export const RESUME_DATA = {
     summary:
         "I am a full-stack engineer who values attention to detail and always keeps the end user in mind. I prioritize aspects such as performance, accessibility, UI/UX, maintainability, and scalability in my work. I have over 3 years of experience working remotely with an overseas company.",
     avatarUrl: "https://avatars.githubusercontent.com/u/8224584?v=4",
-    personalWebsiteUrl: "https://miles.tw",
     contact: {
         email: "inbox@miles.tw",
         tel: undefined,
@@ -181,16 +180,6 @@ export const RESUME_DATA = {
             link: {
                 label: "Detail",
                 href: "https://miles.tw/works/clcc",
-            },
-        },
-        {
-            title: "Everyware CRM",
-            techStack: ["Angular", "Firebase", "Master UI"],
-            description:
-                "Everyware’s Customer Relationship Management System.",
-            link: {
-                label: "Detail",
-                href: "https://miles.tw/works/everyware-crm",
             },
         },
         {
