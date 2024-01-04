@@ -10,7 +10,7 @@ export const RESUME_DATA = {
     about:
         "Detail-oriented Full Stack Engineer dedicated to crafting high-quality products.",
     summary:
-        "I'm a full-stack engineer, specializing in Typescript, React, and Node.js, with considerable expertise in C# and .NET. I am dedicated to continuous learning, exploring new technologies during my free time. I have over 3 years of experience working remotely.",
+        "I'm a full-stack engineer, specializing in Typescript, React, and Node.js, with considerable expertise in C# and .NET. I explore new technologies in my free time and independently develop small projects. I have over 3 years of experience working remotely.",
     avatarUrl: "https://avatars.githubusercontent.com/u/8224584?v=4",
     contact: {
         email: "inbox@miles.tw",
