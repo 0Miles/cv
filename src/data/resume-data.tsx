@@ -96,7 +96,7 @@ export const RESUME_DATA = {
                 "Master CSS",
                 "Electron"
             ],
-            description: "Used for editing the mod source for the SokuLauncher mod store, managing and publishing mods on the source.",
+            description: "Used for editing the mod source for the SokuLauncher mod center, managing and publishing mods on the source.",
             link: {
                 label: "Detail",
                 href: "https://miles.tw/works/soku-source-editor",
